@@ -1,0 +1,16 @@
+.card{
+    border: 1px solid;
+    border: none;
+    padding: 15px;
+    box-shadow:  0 0 30px rgba(0, 0, 0, 0.5); 
+    text-align: justify;
+   
+
+}
+body{
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
