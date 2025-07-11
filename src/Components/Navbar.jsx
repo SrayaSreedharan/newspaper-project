@@ -4,7 +4,6 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import './Navbars.css'
 
-
 const Navbarh = () => {
   return (
     <>
